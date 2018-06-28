@@ -1,4 +1,5 @@
 require 'sinatra'
-require-relative './app'
+
+require'./app'
 
 run Application
