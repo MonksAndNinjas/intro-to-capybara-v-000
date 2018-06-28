@@ -1,5 +1,5 @@
 # Write your code here!
-require 'sinatra'
+require 'sinatra' do
 require-relative './app'
 
 run Application
